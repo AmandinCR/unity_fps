@@ -15,9 +15,9 @@ Library: C:\Users\amand\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=com.rlabrecque.steamworks.net;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.Burst;
 --assembly-defines=FizzySteamworks;
---assembly-defines=Unity.StarterAssets;
 --assembly-defines=Mirror;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Mirror.Transports;
@@ -92,9 +92,9 @@ Library: C:\Users\amand\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=com.rlabrecque.steamworks.net;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.Burst;
 --assembly-defines=FizzySteamworks;
---assembly-defines=Unity.StarterAssets;
 --assembly-defines=Mirror;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Mirror.Transports;
@@ -167,9 +167,9 @@ Library: C:\Users\amand\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=com.rlabrecque.steamworks.net;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.Burst;
 --assembly-defines=FizzySteamworks;
---assembly-defines=Unity.StarterAssets;
 --assembly-defines=Mirror;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Mirror.Transports;
@@ -246,9 +246,9 @@ Library: C:\Users\amand\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=com.rlabrecque.steamworks.net;
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
+--assembly-defines=Unity.AI.Navigation;
 --assembly-defines=Unity.Burst;
 --assembly-defines=FizzySteamworks;
---assembly-defines=Unity.StarterAssets;
 --assembly-defines=Mirror;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Mirror.Transports;
